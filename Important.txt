@@ -1,0 +1,5 @@
+Create virtual env
+py -m venv virtualenv
+
+Luanch it
+virtualenv\Scripts\activate 
